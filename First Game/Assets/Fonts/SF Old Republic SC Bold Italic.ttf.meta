@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 070c6e1866e6fb045b7c507c974838cd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Old Republic SC
+  fontNames:
+  - SF Old Republic SC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d0064207fa08ac34eab983909ca21811, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

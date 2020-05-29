@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c50dc909190f0004a980cf06ebf37879
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Homizio
+  fontNames:
+  - Homizio
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 73b631c014f9ecc46a31e49395fedaa5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

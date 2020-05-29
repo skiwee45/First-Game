@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 6c832e9e887f3564aae58f314029f530
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aliquam
+  fontNames:
+  - Aliquam
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c72f2436b5dd3264e82a94a032dadba2, type: 3}
+  - {fileID: 12800000, guid: 593aca5aec882604eb30986464ca31a4, type: 3}
+  - {fileID: 12800000, guid: 1a75da7ec1c51a142a16cc1acc61d0b7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

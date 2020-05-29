@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f953d9726cd2b6f44b16c8fd611bd9ca
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Willamette
+  fontNames:
+  - SF Willamette
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 864667d47922bb949a5037af6af47c2d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

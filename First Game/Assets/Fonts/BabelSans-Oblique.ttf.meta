@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ecf0ac0a26ed5ab49921624b9650974e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BabelSans
+  fontNames:
+  - BabelSans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4717a6b879ac000448955079c8136c90, type: 3}
+  - {fileID: 12800000, guid: 67cfdf6aadee8b74e80de73fdeb43f03, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
